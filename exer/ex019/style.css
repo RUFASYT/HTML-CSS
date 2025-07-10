@@ -1,0 +1,35 @@
+@charset "UTF-8";
+
+/*
+em HTML id = em CSS é #
+em HTML é class = em CSS é .
+*/
+
+body{
+    background-color: rgb(67, 240, 145);
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+.sds{
+    color:darkgreen
+}
+
+h1{
+    color:rgb(100, 222, 91); ;
+}
+
+.basico{
+    background-color: yellowgreen;
+    color: green;
+}
+
+h1#principal{
+    color: white;
+    text-align: center;
+    background-color: rgb(100, 222, 91);
+}
+
+h2{
+    color: rgb(22, 107, 60);;
+}
